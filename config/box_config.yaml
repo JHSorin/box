@@ -1,0 +1,3 @@
+# Box configuration in mm and kg
+dimensions: [200, 200, 200] # L, W, H
+weight: 5.0

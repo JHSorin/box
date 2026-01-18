@@ -1,0 +1,5 @@
+# Pallet configuration in mm
+pallet_size: [2000, 2000, 150] # Increased for testing space planning
+origin_offset: [0, 0, 0]
+grid_resolution: 5 # Balanced resolution (5mm): High precision for rotation/edges, still <100ms calculation
+camera_height: 2000 # Height of the camera above the pallet origin
